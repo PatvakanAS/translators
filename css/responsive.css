@@ -1,0 +1,482 @@
+/*---------------home page start------------------*/
+@media (max-width: 1312px) {
+    #home_form {
+    }
+
+}
+
+@media (max-width: 1213px) {
+    #home_form {
+    }
+
+    .help_left h2 {
+        margin: 90px 0 20px 90px
+    }
+
+    .all_container, .my_container, .footer_container {
+        margin: 0 20px!important;
+    }
+}
+
+@media (max-width: 1180px) {
+    #home_form {
+    }
+}
+
+@media (max-width: 1012px) {
+
+
+    #content_home_container {
+        width: 100%;
+    }
+}
+
+@media (max-width: 920px) {
+    .help_left h2 {
+        margin: 40px 0 20px 40px
+    }
+
+    .testimonial {
+        padding: 10px;
+    }
+
+    .profil_review_conatner{
+        padding: 0!important;
+        margin-top: 10px;
+    }
+
+    .carousel .testimonial p {
+        padding: 5px;
+    }
+}
+
+@media (max-width: 860px) {
+    #help_container {
+        flex-direction: column;
+    }
+
+    .help_text_container a {
+        justify-content: center;
+    }
+
+    .help_left {
+        width: 100%;
+        text-align: center!important;
+    }
+
+    #help_container img {
+        width: 70%;
+        margin-right: 0!important;
+        height: 480px;
+        max-width: 100%;
+        padding-bottom: 124px;
+    }
+
+    .help_left {
+        padding-bottom: 40px;
+    }
+
+    .help_text_container {
+        text-align: center;
+        margin: auto;
+    }
+
+    .help_text_container p {
+        text-align: center;
+    }
+
+    .help_text_container h5::before {
+        display: none;
+    }
+
+    #help_container {
+        width: 85%;
+        padding: 1%;
+    }
+}
+
+@media (max-width: 876px) {
+    .carousel .testimonial p {
+        width: 100%;
+        margin: 3% 3% 10% 3%;
+    }
+
+    .profil_review_conatner {
+        padding: 0;
+    }
+    .select_container {
+        align-items: center;
+    }
+
+    .select_blocks {
+        width: 24%;
+    }
+    #home_form {
+        box-shadow: none!important;
+    }
+
+    .select_container p {
+        font-size: 11px!important;
+    }
+
+    .select_container select {
+        font-size: 12px!important;
+    }
+
+    #why_choose_us_block {
+        flex-direction: column;
+        text-align: center;
+        margin: auto!important;
+    }
+
+    #why_choose_us_container h6 {
+        text-align: center!important;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    #why_choose_us_container p {
+        text-align: center!important;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    div.why_choose_us_blocks {
+        margin: 0!important;
+    }
+
+}
+
+@media (max-width: 775px){
+    #content_home_container {
+        flex-direction: column;
+    }
+
+    .content_home_blocks {
+        width: 95%;
+        text-align: center;
+    }
+
+    #translators_container_block {
+        width: 95%;
+        padding: 2%;
+    }
+}
+
+@media (max-width: 767px) {
+
+    #start_using_container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #start_using_container a {
+       margin-top: 40px;
+    }
+
+    #start_using_container .start_using_left,.start_using_right  {
+        width: 95%;
+    }
+
+    .start_using_right a {
+        width: 120px;
+    }
+
+    .carousel-control.left {
+        right: 50px;
+    }
+
+    .carousel .carousel-control {
+        margin-right: 20px;
+    }
+}
+
+@media (max-width: 591px) {
+    .translators_container_block_row {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .row {
+        margin-right: 0!important;
+        margin-left: 0!important;
+    }
+
+    #find_translators_container h2 {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .select_container {
+        flex-direction: column;
+    }
+
+    #home_form_search_btn {
+        border-radius: 4px 4px;
+        padding: 22px 24px;
+        margin-top: 10px;
+    }
+
+    .select_container select {
+        -webkit-appearance: none;
+        appearance: none;
+    }
+
+    .select_blocks {
+        width: 100%;
+        border: none;
+    }
+
+    #home_form {
+        margin-bottom: -124px;
+        align-items: center;
+        box-shadow: none!important;
+    }
+}
+
+@media (max-width: 575px){
+    .carousel .testimonial p {
+        width: 95%;
+        margin: 3% auto;
+    }
+    .profil_review_conatner {
+        padding-left: 5%!important;
+    }
+}
+
+@media (max-width: 536px) {
+    .carousel .carousel-control {
+        width: 30px;
+        height: 30px;
+    }
+    .carousel-control.left {
+        left: auto;
+        right: 55px;
+        top: 80px
+    }
+
+    .carousel-control.right {
+        left: auto;
+        top: 80px
+    }
+}
+
+@media (max-width: 425px){
+    .help_left h2 {
+        margin: 124px 5px 40px 5px;
+    }
+
+    h2#our_clients_h2 {
+
+    }
+    .hedding_text_container h1 {
+        padding-top: 100px;
+        font-size: 48px;
+        line-height: 120%;
+    }
+
+    .hedding_text_container h3 {
+        padding-bottom: 102px;
+    }
+
+    #start_using_container .start_using_left h4 {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 320px) {
+    .carousel-control.left {
+        left: auto;
+        right: 50px;
+        top: 30px
+    }
+
+    .carousel-control.right {
+        top: 30px;
+    }
+    .carousel .carousel-control {
+        margin: 80px!important;
+    }
+}
+
+/*---------------home page end------------------*/
+@media only screen and (max-width: 768px){
+    .homeMainTextS{
+        padding: 60px;
+
+    }
+    .logoAndMenu{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .logo{
+        margin-right: 20px;
+
+    }
+    #footerLi {
+        width: 90%;
+    }
+    .menuA{
+        margin-right: 10px;
+    }
+
+}
+
+@media only screen and (max-width: 490px){
+    .responsiveMenuA{
+        width: 45px;
+    }
+    .registrationDivS{
+        flex-wrap: wrap;
+    }
+  
+    .registrationDiv{
+        margin-bottom: 60px;
+
+    }
+    .registrationMainTitle{
+        margin: 60px 0 16px 0;
+
+    }
+    .menuLoginAndSignup {
+        margin-top: 10px;
+
+    }
+
+}
+
+@media (max-width: 1105px){
+    footer {
+        padding: 80px 30px;
+
+    }
+
+    .footer_1_block p {
+        flex: 1.3;
+        margin-right: 2%;
+    }
+
+    .to-right {
+        margin-left: 0;
+    }
+
+    .title,.rede.some-text {
+        text-align: center!important;
+    }
+
+    #registration_con {
+        width: 100%!important;
+    }
+
+    .sign-up .form-box {
+        border: none!important;
+    }
+
+    .sign-up .some-text {
+        width: 100%!important;
+        margin-bottom: 20px;
+        height: auto!important;
+    }
+}
+
+@media (max-width: 750px){
+    .footer_container {
+        flex-direction: column!important;
+        justify-content: center!important;
+        text-align: center;
+    }
+
+    .footer_1_block p {
+        margin-right: 0;
+        padding: 0;
+        text-align: center;
+    }
+    
+    .soc {
+        justify-content: center;
+    }
+
+    .to-right {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 630px){
+    #confirmation {
+        text-align: center;
+    }
+
+    #code_from_email_container {
+        width: 95%;
+        margin: auto;
+    }
+
+    .Code_email_p input {
+        width: 244px;
+        height: 48px;
+        background: #FFFFFF;
+        border: 1px solid #D6D5D7;
+        box-sizing: border-box;
+        border-radius: 4px;
+    }
+
+    a.confirm_email {
+        width: 244px;
+        height: 48px;
+    }
+
+    #confirmation {
+        width: 95%;
+        margin: 50px auto;
+    }
+}
+
+@media (max-width: 630px){
+    #code_from_email_container p {
+        padding: 0 20px;
+    }
+}
+
+@media (max-width: 425px){
+    .Code_email_p input {
+        width: 95%;
+    }
+}
+
+/* registration css  start */
+
+@media only screen and (max-width: 768px) {
+    body .sign-up #translator-info .some-text {
+      width: 500px;
+    }
+  }
+  @media only screen and (max-width: 565px) {
+    body .container .some-text, body .container .title {
+      padding: 0 20px;
+    }
+    body .sign-up .tab-content {
+      width: 400px;
+    }
+    body .sign-up .tab-content #translator-info .some-text {
+      width: 400px;
+    }
+    body .sign-up .tab-content #translatorTabContent {
+      padding: 30px;
+      margin-top: 30px;
+    }
+  }
+  @media only screen and (max-width: 480px) {
+    body .sign-up .tab-content {
+      width: 320px;
+    }
+    body .sign-up .tab-content #translator-info .some-text {
+      width: 280px;
+      font-size: 14px;
+    }
+    body .sign-up .tab-content #translatorTabContent {
+      padding: 30px;
+      margin-top: 30px;
+    }
+  }
+  
+  /* registration css end */
